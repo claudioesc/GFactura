@@ -1,3 +1,3 @@
 GFactura
 ========
-Sistema de gestión simple programado en Gambas 3.6.1
+Sistema de gestión simple escrito en Gambas 3.6.1
